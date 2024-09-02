@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">alvarez_pa1</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="profile_image">Imagen del perfil</string>
+
+    <!-- Navegacion -->
+    <string name="menu_home">Acerca</string>
+    <string name="menu_add_bankruptcies">Sumar quebrados</string>
+    <string name="menu_random_number">Numero aleatorio</string>
+    <string name="menu_ip_address">Dirección IP</string>
+    <string name="menu_convert_base">Convertir base</string>
+
+    <!-- Información de la imagen de perfil -->
+    <string name="profile_image_description">Imagen de perfil</string>
+
+    <!-- Etiquetas y valores -->
+    <string name="name_label">Nombre:</string>
+    <string name="name_value">Juan</string>
+    <string name="surname_label">Apellido:</string>
+    <string name="surname_value">Alvarez Pavel</string>
+    <string name="course_label">Curso:</string>
+    <string name="course_value">Desarrollo de aplicaciones moviles</string>
+    <string name="university_label">Universidad:</string>
+    <string name="university_value">Universidad Continental</string>
+    <string name="career_label">Carrera:</string>
+    <string name="career_value">Ingenieria de sistemas</string>
+</resources>
